@@ -1,0 +1,17 @@
+{
+  "name": "patika-exercise-1",
+  "version": "1.0.0",
+  "description": "This package is patika dev react module 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "node-fetch": "^3.1.0"
+  }
+}
